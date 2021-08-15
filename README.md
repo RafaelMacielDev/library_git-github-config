@@ -19,7 +19,6 @@ Academic demonstration of Git customization via CMD in order to delete and updat
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
-
 - Git
 
 <br>
